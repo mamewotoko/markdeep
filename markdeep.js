@@ -726,21 +726,21 @@ var JAPANESE = {
     keyword: {
         table:     '表',
         figure:    '図',
-        listing:   'liste',
-        diagram:   'diagramme',
+        listing:   '一覧',
+        diagram:   '図',
         contents:  '目次',
 
-        sec:       'sec',
+        sec:       '章',
         section:   '節',
-        subsection: 'paragraphe',
+        subsection: '項',
 
-        Monday:    '月曜',
-        Tuesday:   '火曜',
-        Wednesday: '水曜',
-        Thursday:  '木曜',
-        Friday:    '金曜',
-        Saturday:  '土曜',
-        Sunday:    '日曜',
+        Monday:    '月',
+        Tuesday:   '火',
+        Wednesday: '水',
+        Thursday:  '木',
+        Friday:    '金',
+        Saturday:  '土',
+        Sunday:    '日',
 
         January:   '1月',
         February:  '2月',
@@ -769,7 +769,6 @@ var JAPANESE = {
         dec: '12月'
     }
 };
-    
    
 var DEFAULT_OPTIONS = {
     mode:               'markdeep',
