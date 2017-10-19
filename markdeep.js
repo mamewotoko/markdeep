@@ -721,6 +721,55 @@ var SWEDISH = {
         dec: 'dec'
     }
 };
+
+var JAPANESE = {
+    keyword: {
+        table:     '表',
+        figure:    '図',
+        listing:   'liste',
+        diagram:   'diagramme',
+        contents:  '目次',
+
+        sec:       'sec',
+        section:   '節',
+        subsection: 'paragraphe',
+
+        Monday:    '月曜',
+        Tuesday:   '火曜',
+        Wednesday: '水曜',
+        Thursday:  '木曜',
+        Friday:    '金曜',
+        Saturday:  '土曜',
+        Sunday:    '日曜',
+
+        January:   '1月',
+        February:  '2月',
+        March:     '3月',
+        April:     '4月',
+        May:       '5月',
+        June:      '6月', 
+        July:      '7月',
+        August:    '8月', 
+        September: '9月', 
+        October:   '10月', 
+        November:  '11月',
+        December:  '12月',
+
+        jan: '1月',
+        feb: '2月',
+        mar: '3月',
+        apr: '4月',
+        may: '5月',
+        jun: '6月',
+        jul: '7月',
+        aug: '8月',
+        sep: '9月',
+        oct: '10月',
+        nov: '11月',
+        dec: '12月'
+    }
+};
+    
    
 var DEFAULT_OPTIONS = {
     mode:               'markdeep',
